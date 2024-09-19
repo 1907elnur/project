@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\elnurmg\\source\\repos\\cinemareservation\\src\\cinemaapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\User.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:13:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:12:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:12:07.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatReservation.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:11:46.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:11:40.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\elnurmg\\source\\repos\\CinemaReservation\\src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:11:37.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
